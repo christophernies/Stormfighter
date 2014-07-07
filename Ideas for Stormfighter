@@ -1,0 +1,4 @@
+survey locations without rainfall or permeability to determine if there are other rain mitigation system deployed
+query locations of inlets that are on impermeable land without nearby rain barrels (ones likely to be overwhelmed)
+
+EPSG:4326 - WGS 84
